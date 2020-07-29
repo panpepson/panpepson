@@ -15,11 +15,3 @@
 I am a FullStack developer who knows Frontend, Backend and DevOps. 
 
 </span>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panpepson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
