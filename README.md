@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panpepson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center">
+<span align="center">
 
 ### :star: [wlodawa.net](https://wlodawa.net) :star: [bb.wlodawa.net](https://bb.wlodawa.net) :star: [nbp.now.sh](https://nbp.now.sh/) :star:
 I am a FullStack developer who knows Frontend, Backend and DevOps. 
 
-</p>
+</span>
 
 
