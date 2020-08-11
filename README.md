@@ -2,7 +2,7 @@
 <h2 align="center">ICT & DataBases</h2>
 <p align="center">
 <a href="https://trochymiak.net/">
-<img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="website"></a>  
+<img alt="trochymiak.net" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>  
 <a href="https://www.linkedin.com/in/piotr-trochymiak">
 <img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
 <a href="https://www.facebook.com/PanPiotrTrochymiak">
