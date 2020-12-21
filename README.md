@@ -11,7 +11,8 @@
 
 <span align="center">
 
-### :star: [wlodawa.net](https://wlodawa.net) :star: [bb.wlodawa.net](https://bb.wlodawa.net) :star: [nbp.now.sh](https://nbp.now.sh/) :star: [epgi.now.sh](https://epgi.now.sh/) :star:
+### :star: [wlodawa.net](https://wlodawa.net) :star: [bb.wlodawa.net](https://bb.wlodawa.net) :star: [nbp.now.sh](https://nbp.now.sh/) :star: [epgi.now.sh](https://epgi.now.sh/) :star: [dzis.wlodawa.net](https://dzis.wlodawa.net/) :star: [asyml.wlodawa.net](https://asyml.now.sh/) :star:
+
 I am a FullStack developer who knows Frontend, Backend and DevOps. 
 
 </span>
