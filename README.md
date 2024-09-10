@@ -15,7 +15,7 @@
 
 I am a FullStack developer who knows Frontend, Backend and DevOps. 
 
-## Languages and Tools :
+## Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -25,15 +25,14 @@ I am a FullStack developer who knows Frontend, Backend and DevOps.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original-wordmark.svg" title="hardhat" alt="hardhat" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="hardhat" alt="hardhat" width="40" height="40"/>
 </div>
-
 </span>
 <br />
 <div align="center">
-fire: My Stats :
+## fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=panpepson&theme=dark&background=000000)](https://git.io/streak-stats)
 
