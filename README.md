@@ -1,10 +1,10 @@
 <h1 align="center">Piotr Trochymiak </h1>
 <h2 align="center">ICT & DataBases</h2>
 <p align="center">
-<a href="https://trochymiak.net/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ie10/ie10-original.svg" title="WWW" alt="WWW" width="40" height="40"/></a>  
 <a href="https://www.linkedin.com/in/piotr-trochymiak">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/></a>
+<a href="https://trochymiak.net/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ie10/ie10-original.svg" title="WWW" alt="WWW" width="40" height="40"/></a>  
 <a href="https://www.facebook.com/PanPiotrTrochymiak">
 <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="40" height="40"/></a>
 </p>
