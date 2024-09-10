@@ -34,7 +34,6 @@ I am a FullStack developer who knows Frontend, Backend and DevOps.
 </span>
 <br />
 <div align="center">
-## fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=panpepson&theme=dark&background=000000)](https://git.io/streak-stats)
 
