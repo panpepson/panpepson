@@ -2,11 +2,11 @@
 <h2 align="center">ICT & DataBases</h2>
 <p align="center">
 <a href="https://trochymiak.net/">
-<img alt="trochymiak.net" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="WWW" alt="WWW" width="40" height="40"/></a>  
 <a href="https://www.linkedin.com/in/piotr-trochymiak">
-<img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.facebook.com/PanPiotrTrochymiak">
-<img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="40" height="40"/></a>
 </p>
 
 <span align="center">
@@ -34,7 +34,7 @@ I am a FullStack developer who knows Frontend, Backend and DevOps.
 </span>
 <br />
 <div align="center">
-## :fire: My Stats :
+:fire: My Stats 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=panpepson&theme=transparent&background=000000)](https://git.io/streak-stats)
 
