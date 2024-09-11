@@ -15,7 +15,7 @@
 
 I am a FullStack developer who knows Frontend, Backend and DevOps. 
 
-## Languages and Tools
+## I use 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -34,7 +34,6 @@ I am a FullStack developer who knows Frontend, Backend and DevOps.
 </span>
 <br />
 <div align="center">
-:fire: My Stats 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=panpepson&theme=transparent&background=000000)](https://git.io/streak-stats)
 
