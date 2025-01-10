@@ -11,6 +11,8 @@
 
 <span align="center">
 
+[![Telegram: panpepson](https://img.shields.io/badge/Telegram-panPepson-blueviolet)](https://t.me/panpepson)
+
 :star: [wlodawa.net](https://wlodawa.net) :star: [nbp.now.sh](https://nbp.now.sh/) :star: [epgi.now.sh](https://epgi.now.sh/) :star: [asyml.now.sh](https://asyml.now.sh/) :star: 
 
 I am a FullStack developer who knows Frontend, Backend and DevOps. 
@@ -38,5 +40,5 @@ I am a FullStack developer who knows Frontend, Backend and DevOps.
 <div>
 
   
-[![Telegram: panpepson](https://img.shields.io/badge/Telegram-seero-blueviolet)](https://t.me/panpepson)
+
 
