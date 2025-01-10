@@ -34,8 +34,7 @@ I am a FullStack developer who knows Frontend, Backend and DevOps.
 </span>
 <br />
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=panpepson&style=flat-square&color=blue" alt=""/>
 <div>
-
+[![Telegram: seero](https://img.shields.io/badge/Telegram-seero-blueviolet)](https://t.me/panpepson)
 
