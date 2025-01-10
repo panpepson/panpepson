@@ -38,5 +38,5 @@ I am a FullStack developer who knows Frontend, Backend and DevOps.
 <div>
 
   
-[![Telegram: seero](https://img.shields.io/badge/Telegram-seero-blueviolet)](https://t.me/panpepson)
+[![Telegram: panpepson](https://img.shields.io/badge/Telegram-seero-blueviolet)](https://t.me/panpepson)
 
